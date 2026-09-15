@@ -14,7 +14,6 @@ I'm into **Physical AI**: robots and autonomous vehicles that perceive, decide, 
 ![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/MediaPipe%20%2F%20OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
