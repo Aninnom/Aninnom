@@ -1,11 +1,11 @@
 ## Hi, I'm Hyeokjun Lee 👋
 
-Sophomore at **Hanyang University ERICA** — majoring in **Data Intelligence** (ICT Convergence), with a second major in **Artificial Intelligence**.
+Student at **Hanyang University ERICA** — majoring in **Data Intelligence** (ICT Convergence), with a second major in **Artificial Intelligence**.
 I'm into **Physical AI**: robots and autonomous vehicles that perceive, decide, and act in the real world.
 
 - 🚗 Preparing for the **2026 AutoRace** scale-car autonomous driving competition (LIMO Pro · ROS)
 - ✋ Building a hand-gesture controller for macOS with MediaPipe + PyTorch
-- 🌱 Currently exploring robotics, cloud/DevOps, and full-stack development
+- 🌱 Currently exploring robotics, autonomous driving and AIOps.
 
 ### Tech Stack
 
