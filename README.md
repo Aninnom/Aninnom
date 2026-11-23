@@ -3,7 +3,7 @@
 Student at **Hanyang University ERICA** — majoring in **Data Intelligence** (ICT Convergence), with a second major in **Artificial Intelligence**.
 I'm into **Physical AI**: robots and autonomous vehicles that perceive, decide, and act in the real world.
 
-- 🚗 Preparing for the **2026 AutoRace** scale-car autonomous driving competition (LIMO Pro · ROS)
+- 🚗 Team lead at the **2026 AutoRace** scale-car autonomous driving competition — finished the finals with **99/100** on the driving course (LIMO Pro · ROS 2)
 - ✋ Building a hand-gesture controller for macOS with MediaPipe + PyTorch
 - 🌱 Currently exploring robotics, autonomous driving and AIOps.
 
@@ -30,7 +30,7 @@ I'm into **Physical AI**: robots and autonomous vehicles that perceive, decide, 
 
 | Project | Description | Stack |
 |---|---|---|
-| **AutoRace 2026** | Scale-car autonomous driving competition — lane following and track missions on a 1:10 car | LIMO Pro · ROS · LiDAR · Camera |
+| **AutoRace 2026 (ERICAR)** | Scale-car autonomous driving competition — lane following plus 8 track missions (stop lines, 3-lane obstacle avoidance, fork signs, cones, traffic light, T-parking) on a LIMO Pro. Finals: 99/100, lap 2:21.28 | ROS 2 Humble · Jetson Orin Nano · YOLO · LiDAR · Camera |
 | [**growMate**](https://github.com/Aninnom/growMate) | IoT plant monitor that chats with you in the plant's own voice | Raspberry Pi · React · FastAPI · Gemini |
 | [**Autonomous Parking (Sim2Real)**](https://github.com/Aninnom/storagy-project-docker) | Robot finds an empty slot and parks itself — LiDAR occupancy + camera line detection, Nav2 approach, precision docking | ROS 2 Humble · Gazebo · Nav2 · Docker |
 | **GestureControlMac** | Controls macOS with hand gestures — MLP for static, LSTM for dynamic gestures | MediaPipe · PyTorch · PyQt6 |
