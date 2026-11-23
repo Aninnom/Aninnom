@@ -30,7 +30,7 @@ I'm into **Physical AI**: robots and autonomous vehicles that perceive, decide, 
 
 | Project | Description | Stack |
 |---|---|---|
-| **AutoRace 2026 (ERICAR)** | Scale-car autonomous driving competition — lane following plus 8 track missions (stop lines, 3-lane obstacle avoidance, fork signs, cones, traffic light, T-parking) on a LIMO Pro. Finals: 99/100, lap 2:21.28 | ROS 2 Humble · Jetson Orin Nano · YOLO · LiDAR · Camera |
+| [**AutoRace 2026 (ERICAR)**](https://github.com/Aninnom/ERICAR) | Scale-car autonomous driving competition — lane following plus 8 track missions (stop lines, 3-lane obstacle avoidance, fork signs, cones, traffic light, T-parking) on a LIMO Pro. Finals: 99/100, lap 2:21.28 | ROS 2 Humble · Jetson Orin Nano · YOLO · LiDAR · Camera |
 | [**growMate**](https://github.com/Aninnom/growMate) | IoT plant monitor that chats with you in the plant's own voice | Raspberry Pi · React · FastAPI · Gemini |
 | [**Autonomous Parking (Sim2Real)**](https://github.com/Aninnom/storagy-project-docker) | Robot finds an empty slot and parks itself — LiDAR occupancy + camera line detection, Nav2 approach, precision docking | ROS 2 Humble · Gazebo · Nav2 · Docker |
 | **GestureControlMac** | Controls macOS with hand gestures — MLP for static, LSTM for dynamic gestures | MediaPipe · PyTorch · PyQt6 |
